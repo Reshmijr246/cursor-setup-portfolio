@@ -16,6 +16,13 @@
 6. Created project folder
 7. Created README.md file
 
+## Issues Faced and Solution
+- Claude Code extension had connection/loading issues during setup.
+
+### Solution
+- Restarted Cursor IDE and retried the installation/login process.
+
+
 ## What I Learned
 - Basic Git workflow
 - GitHub repository creation
