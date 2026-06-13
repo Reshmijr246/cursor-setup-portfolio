@@ -1,7 +1,6 @@
 # Katelyn Bourgoin
 
-**Category:** Customer Research & Buyer Psychology
-
+**Category:** Buyer Psychology, Positioning & Audience Growth
 **LinkedIn Profile:** https://www.linkedin.com/in/katebour/
 
 **Why Selected:**  
