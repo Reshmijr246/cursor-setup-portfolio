@@ -1,22 +1,15 @@
-# LinkedIn Organic Content Strategy for B2B SaaS
+# Research Sources
 
-## Research Question
-
-How do B2B SaaS companies use LinkedIn organic content to generate awareness, engagement, and pipeline?
-
-## Expert Selection Framework
-
-Rather than selecting the most-followed LinkedIn creators, I selected practitioners representing different parts of the LinkedIn growth ecosystem.
-
-| Expert | Category | Why Selected |
-|----------|----------|----------|
-| Richard van der Blom | Algorithm & Distribution | Studies LinkedIn algorithm and content performance |
-| Justin Welsh | Creator-Led Growth | Built a business through LinkedIn content |
-| Chris Walker | Demand Generation | Connects content to revenue and pipeline |
-| Dave Gerhardt | Brand Marketing | Focuses on brand-led growth and community |
-| Amanda Natividad | Content Strategy | Known for zero-click content frameworks |
-| Katelyn Bourgoin | Customer Research | Uses customer insights to drive content |
-| Lara Acosta | Personal Branding | Strong example of LinkedIn audience growth |
-| Gaetano DiNardi | Growth Marketing | SaaS growth and content-led acquisition |
-| Austin Belcak | Growth Experiments | Data-driven LinkedIn growth strategies |
-| Mandy McEwen | Lead Generation | LinkedIn lead generation and prospecting |
+| Expert | Main Source Used | Date | Link | Annotation |
+|----------|----------|----------|----------|----------|
+| Amanda Natividad | What Zero Click Marketing Actually Is | Mar 10, 2026 | https://music.amazon.in/podcasts/764b747b-af7c-4eae-98d4-0dc867d3b7c4/zero-click-marketing | Zero Click Marketing framework and native content strategy. |
+| Lara Acosta | How to Turn LinkedIn into a Personal Brand Lead Magnet with AI | Jan 20, 2026 | https://www.youtube.com/watch?v=3iR3kHxCwfo | Personal branding, storytelling, hooks, and AI-assisted content workflows. |
+| Austin Belcak | How Austin Belcak Built a 1.5M+ Audience on LinkedIn Before It Was Cool | Mar 31, 2026 | https://www.opny.co/podcasts/the-career-coaches-podcast-2/episodes/2149186741 | Audience-first content creation and content systems. |
+| Justin Welsh | LinkedIn Post | Jun 9, 2026 | https://www.linkedin.com/posts/justinwelsh_forget-being-worth-100m-whats-the-point-activity-7469716959505588224-DrzY | Demonstrates Justin Welsh's creator-led growth philosophy, using personal storytelling, lifestyle positioning, and audience-building strategies to establish trust and drive lead generation. |
+| Chris Walker | LinkedIn Post  | May 13, 2026 | https://www.linkedin.com/posts/chriswalker171_60-of-the-comments-on-linkedin-are-now-activity-7459338667778740224-FTYr | Highlights the growing impact of AI-generated engagement on LinkedIn and emphasizes authentic human interaction as a key differentiator for organic reach and trust-building. |
+| Dave Gerhardt | Recent LinkedIn Posts Collection | May 30, 2026 | https://www.linkedin.com/posts/davegerhardt_the-narrative-is-shifting-on-ai-have-you-activity-7464265192814706688-TOLZ
+ | Demonstrates how community insights and audience conversations can reveal emerging industry trends and drive meaningful engagement. |
+| Katelyn Bourgoin | Katelyn Bourgoin: Buyer Psychology and the Ownable Idea That Grows an Expert Business | May 18, 2026 | https://www.youtube.com/watch?v=7doL-eq-JCU | Customer research and buyer psychology. |
+| Gaetano DiNardi | The No-Gimmick Playbook for LinkedIn Growth & B2B Marketing Mastery with Gaetano DiNardi | May 18, 2025 | https://www.youtube.com/watch?v=UVGYgyRjRRY | Shares a practical LinkedIn growth framework focused on expertise-driven content, consistent publishing, personal branding, and client acquisition through organic audience building. |
+| Mandy McEwen | LinkedIn Post | June 11, 2026 | https://www.linkedin.com/posts/mandymcewen_lindsay-and-i-accidentally-went-live-on-linkedin-activity-7470879966554075136-koBR | Demonstrates how LinkedIn Live can be used to test audience interest, strengthen community engagement, and expand executive brand visibility. |
+| Richard van der Blom | The 2026 Playbook for LinkedIn Authority and B2B Growth in Europe - Richard van der Blom | May 14, 2026 |https://www.youtube.com/watch?v=I6gzJ6YmkeY| LinkedIn algorithm insights, content distribution mechanics, thought leadership strategy, and authority-building for B2B growth. |
