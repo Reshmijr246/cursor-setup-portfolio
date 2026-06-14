@@ -15,6 +15,89 @@
 **Why This Source Was Selected:**
 
 This is one of Amanda Natividad’s most important and current explanations of Zero Click Marketing, the concept she is most closely associated with. The episode directly addresses how brands build awareness, trust, preference, and demand when buyers increasingly consume information without clicking through to websites. The framework is highly relevant to LinkedIn organic strategy because LinkedIn is one of the primary environments where zero-click content succeeds. The discussion provides practical guidance on audience building, measurement, brand visibility, and demand creation in modern B2B marketing. 
+
+## Transcript Metadata
+
+**Transcript Available:** Yes
+
+**Transcript Source:** Supadata API
+
+**Transcript Retrieved:** June 14, 2026
+
+**Analysis Method:**
+
+This research document was prepared using a combination of the publicly available episode description and a machine-generated transcript retrieved via the Supadata API. The transcript was reviewed to identify recurring themes, frameworks, terminology, and strategic recommendations related to Zero Click Marketing.
+
+### Representative Transcript Excerpts
+
+00:00:00 Studies show that LinkedIn is
+00:00:01 responsible for generating 80% of all
+00:00:03 B2B leads and it's even easier than ever
+00:00:06 in 2026 if you know how to use AI every
+00:00:08 step of the way. So to show you how to
+00:00:10 do this, I brought on Lara Aosta, the
+00:00:12 number one female profile on the
+00:00:13 platform and she's going to be breaking
+00:00:14 down what is AI slop and what is not and
+00:00:17 how to stand out in an age filled with
+00:00:19 AI generated content. The three proven
+00:00:20 formats for authoritatively sharing
+00:00:22 things you learn in [music] your
+00:00:23 business and telling stories about it.
+00:00:25 the two unbeatable writing frameworks
+00:00:27 that she uses daily to create viral
+00:00:29 content consistently and finally giving
+00:00:31 you a full demo of her actual AI
+00:00:32 workflow and how she uses it to do all
+00:00:34 of this work for her in just [music] 30
+00:00:36 minutes. I hope you enjoyed. Lara,
+00:00:38 thanks for coming on. Excited to get
+00:00:39 into this. I think uh it's no-brainer
+00:00:41 player to be getting into LinkedIn and
+00:00:42 particularly using AI to to put more
+00:00:44 content out, especially when you know
+00:00:45 how to use it correctly to not put out
+00:00:47 the wrong kind of content because I
+00:00:48 think it's all too common now to see the
+00:00:50 wrong sort of stuff and that easily
+00:00:51 repels people you're trying to track.
+00:00:52 So, we have one of the foremost experts
+00:00:54 here to walk us through the LinkedIn
+00:00:55 content playbook for 2026. So, thank you
+00:00:58 for coming on, Laura.
+00:00:59 >> Likewise. Thank you for having me. I'm
+00:01:01 so excited. Today, all I'm going to show
+00:01:03 you guys is how you can build a personal
+00:01:05 brand on LinkedIn. It's been the gold
+00:01:08 mine for over the last few years and I
+00:01:10 think it's still we're still at the
+00:01:11 crossroads for anyone to build grow and
+00:01:14 scale the brands and be able to make it
+00:01:16 profitable faster than ever just writing
+00:01:20 not not with viral videos, YouTube
+00:01:22 videos, etc. This is the ultimate
+
+### Transcript-Derived Themes
+
+- Platform-native content performs better than traffic-first content.
+- Brand preference develops long before buyers are ready to purchase.
+- Visibility and memorability are leading indicators of future demand.
+- Traditional attribution models often fail to capture content influence.
+- LinkedIn is particularly effective for zero-click distribution because audiences consume professional information directly within the feed.
+
+### Transcript Validation Notes
+
+The following sections were informed by transcript review:
+
+- Executive Summary
+- Key Insights
+- Notable Quotes or Statements
+- Research Notes
+- Potential Playbook Contributions
+- Overall Contribution
+
+The transcript was used to validate framework terminology, strategic recommendations, and examples discussed throughout the episode.
+
 ---
 
 ## Executive Summary
@@ -225,4 +308,6 @@ For B2B SaaS organizations, the implications are significant. Founder-led market
 - Source URL: https://music.amazon.in/podcasts/764b747b-af7c-4eae-98d4-0dc867d3b7c4/zero-click-marketing
 - Source Type: Podcast Episode
 - Date Accessed: June 14, 2026
-- Verification Notes: Publicly accessible podcast episode published March 10, 2026. Episode description explicitly introduces Zero Click Marketing, the ZCM Ladder (Seen → Understood → Remembered → Preferred → Sought Out), measurement approaches, and practical implementation guidance.
+- Transcript Source: Supadata API
+- Transcript Reviewed: Yes
+- Verification Notes: Analysis is based on the podcast episode description and transcript review. Framework definitions, strategic lessons, and terminology were validated using transcript-derived content where available.

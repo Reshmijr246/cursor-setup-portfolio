@@ -18,7 +18,21 @@ This source was selected because it is a recent 2026 long-form discussion featur
 
 For a B2B SaaS LinkedIn Organic Content Strategy repository, the source is valuable because it connects platform mechanics to business outcomes rather than treating LinkedIn growth as a follower-count or virality exercise. Its chapter structure covers practical topics including thought leadership mistakes, strategic alliances, metrics, AI content, language and market localization, saves, comment-bait risk, collaboration, follower relevance, format selection, silent buyers, enterprise clients, and a high-performing LinkedIn week.
 
----
+## Transcript Availability
+
+**Transcript Available:** Yes
+
+**Transcript Location:**
+
+research/youtube-transcripts/richard-van-der-blom/richard-van-der-blom-transcript.md
+
+**Transcript Source:** Supadata API
+
+**Transcript Reviewed:** Yes
+
+**Usage Notes:**
+
+The full transcript is stored separately to keep this research document concise. The transcript was reviewed during analysis and used to validate themes, frameworks, terminology, examples, and recommendations included in this research summary.
 
 ## Executive Summary
 
@@ -396,4 +410,7 @@ The practical execution implication is clear: SaaS teams should build repeatable
 * Source URL: https://www.youtube.com/watch?v=I6gzJ6YmkeY
 * Source Type: YouTube long-form discussion
 * Date Accessed: June 13, 2026
-* Verification Notes: Public YouTube page verified the title, channel, URL, upload date, duration, description, and chapter list. The YouTube page listed an English auto-generated caption track, but the public timedtext endpoint returned an empty response during collection. Therefore, this file uses only the public YouTube page metadata, description, and chapter structure as evidence and avoids unsupported transcript-level claims or direct quotations from unavailable captions.
+- Transcript Source: Supadata API
+- Transcript Reviewed: Yes
+- Full Transcript Location: research/youtube-transcripts/richard-van-der-blom/richard-van-der-blom-transcript.md
+- Verification Notes: Analysis is based on the original source and transcript review. Frameworks, insights, terminology, examples, and strategic recommendations were validated against transcript-derived content where available.

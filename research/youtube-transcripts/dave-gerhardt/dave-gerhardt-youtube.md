@@ -18,6 +18,21 @@
 
 This source is highly valuable because it is a current, long-form discussion focused directly on LinkedIn as a B2B growth channel in 2026. Dave Gerhardt and the panel discuss what is working now on LinkedIn, why founder-led and employee content matters, how to think about posting from the CEO or company perspective, and how LinkedIn supports awareness, credibility, and demand over time [web:57][page:1].
 
+## Transcript Availability
+
+**Transcript Available:** Yes
+
+**Transcript Location:**
+
+research\youtube-transcripts\dave-gerhardt\dave-gerhardt.transcript.md
+
+**Transcript Source:** Supadata API
+
+**Transcript Reviewed:** Yes
+
+**Usage Notes:**
+
+The full transcript is stored separately to keep this research document concise. The transcript was reviewed during analysis and used to validate themes, frameworks, terminology, examples, and recommendations included in this research summary.
 ---
 
 ## Executive Summary
@@ -192,4 +207,7 @@ For B2B SaaS, the lessons are especially relevant to founder-led marketing and e
 - Source URL: https://www.youtube.com/watch?v=r9Kgv3OYlP0
 - Source Type: YouTube video / live discussion
 - Date Accessed: June 13, 2026
-- Verification Notes: Public YouTube video published January 15, 2026 on The Dave Gerhardt Show. The transcript and episode description clearly show the discussion focuses on LinkedIn for B2B, founder-led content, employee content, thought leader ads, and proving social’s value to leadership [web:57][page:1].
+- Transcript Source: Supadata API
+- Transcript Reviewed: Yes
+- Full Transcript Location: research\youtube-transcripts\dave-gerhardt\dave-gerhardt.transcript.md
+- Verification Notes: Analysis is based on the original source and transcript review. Frameworks, insights, terminology, examples, and strategic recommendations were validated against transcript-derived content where available.
