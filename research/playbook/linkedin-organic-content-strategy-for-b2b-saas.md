@@ -162,65 +162,6 @@ Frameworks or recommendations developed by the author through synthesis of multi
 Throughout the playbook, recommendations are clearly distinguished from original ideas wherever applicable.
 
 
-
-## Expert Selection Criteria
-
-Experts were selected using the following criteria:
-
-- Active LinkedIn practitioners with demonstrated experience rather than commentators or theorists.
-- Proven experience growing audiences, brands, or businesses through LinkedIn.
-- Recent content published primarily during 2025–2026.
-- Practical frameworks supported by real-world examples.
-- Representation across complementary disciplines to provide diverse perspectives.
-
-The selected experts were:
-
-- Amanda Natividad
-- Austin Belcak
-- Chris Walker
-- Dave Gerhardt
-- Gaetano DiNardi
-- Justin Welsh
-- Katelyn Bourgoin
-- Lara Acosta
-- Mandy McEwen
-- Richard van der Blom
-
----
-
-## Sources Analyzed
-
-The research repository contains multiple types of publicly available material, including:
-
-- LinkedIn posts
-- YouTube interviews
-- Podcast interviews
-- Long-form discussions
-- Public presentations
-- Research summaries
-- Framework documentation
-
-Where possible, greater emphasis was placed on long-form interviews and presentations because they provide more context than individual social media posts.
-
----
-
-## How Recommendations Were Developed
-
-Recommendations in this playbook were developed using the following process:
-
-1. Collect recent material from each practitioner.
-2. Extract recurring ideas, frameworks, and recommendations.
-3. Compare themes across multiple experts.
-4. Identify areas where recommendations agreed.
-5. Identify areas where recommendations conflicted.
-6. Evaluate the supporting evidence before developing a final recommendation.
-
-Recommendations supported by multiple independent practitioners were given greater weight than ideas presented by only one source.
-
-Where experts disagreed, both perspectives are presented later in this document together with the reasoning behind the final recommendation adopted in this playbook.
-
----
-
 # Strategic Principles
 
 The following principles appeared consistently throughout the research and form the foundation of the execution framework presented later in this playbook.
@@ -244,8 +185,10 @@ Promotion becomes considerably more effective after credibility has already been
 ### Sources
 
 - Amanda Natividad — *What Zero Click Marketing Actually Is* (10 March 2026)
-- Justin Welsh — LinkedIn post (9 June 2026)
-- Chris Walker — LinkedIn post (13 May 2026)
+- Justin Welsh — *Reverse Engineering a $15M Business in 7 Years*
+ (9 June 2026)
+- Chris Walker — LinkedIn Comments Overrun with Automated AI Spam
+ (13 May 2026)
 
 ---
 
@@ -727,3 +670,14 @@ Before publishing any LinkedIn post, confirm the following:
 ---
 
 The following sections critically evaluate differences between experts, explain which recommendations were adopted, identify ideas that were intentionally rejected, introduce an original framework developed during this research, discuss limitations of the playbook, and conclude with recommendations for further learning.
+
+Limitations
+
+Based on publicly available content.
+No controlled experiments were conducted.
+LinkedIn algorithm behavior changes over time.
+Recommendations should be validated for individual businesses.
+
+
+Conclusion
+Successful LinkedIn growth is less about maximizing impressions than building sustained trust through educational content, consistent publishing, customer understanding, and meaningful conversations. Across the practitioners reviewed, the strongest recurring theme was that long-term authority compounds when organizations repeatedly solve real customer problems rather than optimize for short-term engagement metrics.
