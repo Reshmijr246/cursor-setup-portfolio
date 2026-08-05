@@ -671,13 +671,14 @@ Before publishing any LinkedIn post, confirm the following:
 
 The following sections critically evaluate differences between experts, explain which recommendations were adopted, identify ideas that were intentionally rejected, introduce an original framework developed during this research, discuss limitations of the playbook, and conclude with recommendations for further learning.
 
-Limitations
+# Limitations
 
-Based on publicly available content.
-No controlled experiments were conducted.
-LinkedIn algorithm behavior changes over time.
-Recommendations should be validated for individual businesses.
+- Based on publicly available content.
+- No controlled experiments were conducted.
+- LinkedIn algorithm behavior changes over time.
+- Recommendations should be validated for individual businesses.
 
 
-Conclusion
+# Conclusion
+
 Successful LinkedIn growth is less about maximizing impressions than building sustained trust through educational content, consistent publishing, customer understanding, and meaningful conversations. Across the practitioners reviewed, the strongest recurring theme was that long-term authority compounds when organizations repeatedly solve real customer problems rather than optimize for short-term engagement metrics.
